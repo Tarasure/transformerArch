@@ -28,7 +28,7 @@ inference.py – Load trained model and generate lyrics with top-k sampling.
 
 1. Clone or Download Project
 
-git clone https://github.com/Tarasure/transformerllm
+git clone https://github.com/Tarasure/transformerArch
 
 cd transllm
 
