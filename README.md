@@ -30,7 +30,7 @@ inference.py – Load trained model and generate lyrics with top-k sampling.
 
 git clone https://github.com/Tarasure/transformerArch
 
-cd transllm
+cd transformerArch
 
 2. Install Dependencies
    
